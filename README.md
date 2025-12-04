@@ -8,6 +8,9 @@ ArduinoIDE
 IDLE Python
 VS Code
 
+Here is the YouTube video link of our team talking about it! Feel free to use it for future classes and demos! 
+https://youtube.com/shorts/lljjmPuSPz8?si=m6lTYXGlk9Z3YWOw 
+
 IT Project
 
 In this project we are going to make an AI Macronutrient counter. The goal is to put food in front of the camera and have the model recognize the food and use Groq's Llama-3.1-8b-instant model to find the macronutrients and display them onto a LED screen.
@@ -19,6 +22,7 @@ Download food recognition model from HuggingFace:
  Upload Arduino Code:
 
      -The code will display the proteins, fats and carboohydrates on a screen.
+
 
 Connect Python code to Arduino:
 
